@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MIGUEL-LO
-- 👀 I’m interested in Quantum computing
-- 🌱 I’m currently learning a bit more coding
+- 👀 I’m interested in Quantum computing and Machine Learning
+- 🌱 I’m currently a Junior Software Architect
 - 💞️ I’m looking to collaborate on quantum software projects
 - 📫 How to reach me email: ucaplop@ucl.ac.uk or instagram: miguelrld
 
